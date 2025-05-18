@@ -10,8 +10,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from fpdf import FPDF
 
 # --- Configuration ---
-USERNAME = ""
-PASSWORD = ""
+USERNAME = "mailhkris@gmail.com"
+PASSWORD = "04hari2004"
 MY_PROFILE_URL = "https://www.linkedin.com/in/harikrishnan-alakesan-05a442215/"
 COOKIE_FILE = "linkedin_cookies.pkl"
 genai.configure(api_key="AIzaSyCagnPGqPk2pPzyvkaA6DYxt1ReIVN2tOE")  # Replace with your actual API key
